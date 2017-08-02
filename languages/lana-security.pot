@@ -1,0 +1,260 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lana Security\n"
+"POT-Creation-Date: 2016-12-01 18:58+0100\n"
+"PO-Revision-Date: 2016-12-01 18:58+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-lana-security-login-logs-list-table.php:48
+#: includes/class-lana-security-logs-list-table.php:48
+msgid "Delete"
+msgstr ""
+
+#: includes/class-lana-security-login-logs-list-table.php:67
+#: includes/class-lana-security-logs-list-table.php:67
+msgid "(no date)"
+msgstr ""
+
+#: includes/class-lana-security-login-logs-list-table.php:71
+#: includes/class-lana-security-logs-list-table.php:71
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: includes/class-lana-security-login-logs-list-table.php:88
+#, php-format
+msgid "(status code: %d)"
+msgstr ""
+
+#: includes/class-lana-security-login-logs-list-table.php:113
+msgid "Username"
+msgstr ""
+
+#: includes/class-lana-security-login-logs-list-table.php:114
+msgid "Status"
+msgstr ""
+
+#: includes/class-lana-security-login-logs-list-table.php:115
+#: includes/class-lana-security-logs-list-table.php:119
+msgid "Comment"
+msgstr ""
+
+#: includes/class-lana-security-login-logs-list-table.php:116
+#: includes/class-lana-security-logs-list-table.php:120
+msgid "IP Address"
+msgstr ""
+
+#: includes/class-lana-security-login-logs-list-table.php:117
+#: includes/class-lana-security-logs-list-table.php:121
+msgid "User Agent"
+msgstr ""
+
+#: includes/class-lana-security-login-logs-list-table.php:118
+#: includes/class-lana-security-logs-list-table.php:122
+msgid "Date"
+msgstr ""
+
+#: includes/class-lana-security-login-logs-list-table.php:138
+#: includes/class-lana-security-logs-list-table.php:142
+msgid "Log entries deleted"
+msgstr ""
+
+#: includes/class-lana-security-login-logs-list-table.php:163
+#: includes/class-lana-security-logs-list-table.php:167
+msgid "Show all dates"
+msgstr ""
+
+#: includes/class-lana-security-login-logs-list-table.php:174
+#: includes/class-lana-security-logs-list-table.php:178
+#, php-format
+msgid "%1$s %2$d"
+msgstr ""
+
+#: includes/class-lana-security-login-logs-list-table.php:182
+#: includes/class-lana-security-logs-list-table.php:186
+msgid "25 per page"
+msgstr ""
+
+#: includes/class-lana-security-login-logs-list-table.php:185
+#: includes/class-lana-security-logs-list-table.php:189
+msgid "50 per page"
+msgstr ""
+
+#: includes/class-lana-security-login-logs-list-table.php:188
+#: includes/class-lana-security-logs-list-table.php:192
+msgid "100 per page"
+msgstr ""
+
+#: includes/class-lana-security-login-logs-list-table.php:192
+#: includes/class-lana-security-logs-list-table.php:196
+msgid "Filter"
+msgstr ""
+
+#: includes/class-lana-security-login-logs-list-table.php:252
+#: includes/class-lana-security-logs-list-table.php:256
+msgid "process_bulk_action() nonce check failed"
+msgstr ""
+
+#: includes/class-lana-security-login-logs-list-table.php:256
+#: lana-security.php:372
+msgid "You're not allowed to delete login logs!"
+msgstr ""
+
+#: includes/class-lana-security-logs-list-table.php:118
+msgid "User"
+msgstr ""
+
+#: includes/class-lana-security-logs-list-table.php:260 lana-security.php:302
+msgid "You're not allowed to delete security logs!"
+msgstr ""
+
+#: lana-security.php:28 lana-security.php:188
+msgid "Settings"
+msgstr ""
+
+#: lana-security.php:54
+msgid "Lana Security plugin activated"
+msgstr ""
+
+#: lana-security.php:65
+msgid "Lana Security plugin deactivated"
+msgstr ""
+
+#: lana-security.php:179
+msgid "Lana Security"
+msgstr ""
+
+#: lana-security.php:182 lana-security.php:227 lana-security.php:254
+#: lana-security.php:271 lana-security.php:476
+msgid "Security Logs"
+msgstr ""
+
+#: lana-security.php:185 lana-security.php:232 lana-security.php:324
+#: lana-security.php:341 lana-security.php:495
+msgid "Login Logs"
+msgstr ""
+
+#: lana-security.php:212 lana-security.php:403
+msgid "Encrypt Version"
+msgstr ""
+
+#: lana-security.php:213 lana-security.php:419
+msgid ""
+"Encrypt WordPress version in frontend scripts and styles, and remove "
+"generator"
+msgstr ""
+
+#: lana-security.php:217 lana-security.php:426
+msgid "Insecure Files"
+msgstr ""
+
+#: lana-security.php:218 lana-security.php:442
+msgid "Block insecure files (readme.html, license.txt) with htaccess"
+msgstr ""
+
+#: lana-security.php:222 lana-security.php:453
+msgid "Login Captcha"
+msgstr ""
+
+#: lana-security.php:223
+msgid "Add simple number captcha in WordPress login form"
+msgstr ""
+
+#: lana-security.php:228
+msgid ""
+"Monitors: activate and deactivate Lana Security plugin, password change "
+"(roles: only administrator), delete user (roles: all)"
+msgstr ""
+
+#: lana-security.php:233
+msgid "Monitors: success and failed login with comment"
+msgstr ""
+
+#: lana-security.php:256 lana-security.php:326
+#, php-format
+msgid "Logs is disabled. Go to the <a href=\"%s\">Settings</a> page to enable."
+msgstr ""
+
+#: lana-security.php:274 lana-security.php:344
+msgid "Delete Logs"
+msgstr ""
+
+#: lana-security.php:393
+msgid "Lana Security Settings"
+msgstr ""
+
+#: lana-security.php:398
+msgid "Security Settings"
+msgstr ""
+
+#: lana-security.php:410 lana-security.php:460 lana-security.php:483
+#: lana-security.php:502 views/lana-security-dashboard-page.php:28
+msgid "Disabled"
+msgstr ""
+
+#: lana-security.php:414 lana-security.php:464 lana-security.php:487
+#: lana-security.php:506 views/lana-security-dashboard-page.php:22
+msgid "Enabled"
+msgstr ""
+
+#: lana-security.php:433
+msgid "Deny"
+msgstr ""
+
+#: lana-security.php:437
+msgid "Allow"
+msgstr ""
+
+#: lana-security.php:448
+msgid "Login Settings"
+msgstr ""
+
+#: lana-security.php:471
+msgid "Log Settings"
+msgstr ""
+
+#: lana-security.php:515
+msgid "Save Changes"
+msgstr ""
+
+#: lana-security.php:697
+msgid "Captcha"
+msgstr ""
+
+#: lana-security.php:727 lana-security.php:731
+msgid "ERROR:"
+msgstr ""
+
+#: lana-security.php:727
+msgid "The captcha field is empty."
+msgstr ""
+
+#: lana-security.php:731
+msgid "The captcha is incorrect."
+msgstr ""
+
+#: lana-security.php:790
+#, php-format
+msgid "admin password changed by %s"
+msgstr ""
+
+#: lana-security.php:803
+#, php-format
+msgid "user deleted by %s"
+msgstr ""
+
+#: views/lana-security-dashboard-page.php:5
+msgid "Lana Security - Dashboard"
+msgstr ""

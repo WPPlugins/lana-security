@@ -1,0 +1,14 @@
+#login p.lana-captcha {
+    margin: 5px 0 25px 0;
+}
+
+#login p.lana-captcha img.captcha-img {
+    vertical-align: top;
+    margin-top: 1px;
+}
+
+#login p.lana-captcha input.captcha-input {
+    width: 70px;
+    height: 30px;
+    margin: 0;
+}
